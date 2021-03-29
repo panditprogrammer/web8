@@ -4,11 +4,11 @@
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
-
 }
 body,.max-width{
     width: 1300px;
     margin: auto;
+
 }
 /* header styled here  */
 nav{
@@ -155,11 +155,12 @@ nav{
 .abouth1{
     font-size: 35px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin:  10px auto;
+    padding:  20px auto;
     margin-bottom: 0px;
     color: black;
     text-align: center;
-    padding-top: 10px;
+    margin: 10px auto;
+
 
 }
 
@@ -538,6 +539,7 @@ nav{
 
 }
 .socialh1{
+    background: #db7979;
     text-align: center;
     font-size: 35px;
     margin-top: 10px;
